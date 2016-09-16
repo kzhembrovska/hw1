@@ -1,0 +1,14 @@
+What does the "rect" function do?
+The "rect" function draws rectangles. It provies the coordinates of the shape.
+
+What does the "rectMode" function do?
+The "rectMode" function adapts, alters, and adjusts the area from which rectangles are composed in.
+The function identifies the x and y values, which identify a certain point to alter.
+
+What is a pixel?
+A baisic unit of programable color on a computer display or image. 
+A pixel's size strongly depends on what the set resolution of the display is.
+
+What is HSB?
+HSB= hue,saturation, brightness. 
+Color is defined by three numbers, the values range form 0 to 360.
